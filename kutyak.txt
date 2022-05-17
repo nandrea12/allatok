@@ -6,3 +6,5 @@
 
 3. Szereted-e a kutyakat?
 Igen/nem
+
+4. Van-e kutyad?
