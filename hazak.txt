@@ -2,9 +2,12 @@ Mi van a haz tetejen?
 Cserep
 
 Min keresztul megyunk be a hazba?
+<<<<<<< HEAD
 Az ajton.
 
 Hol nézünk ki a házból?
 Az ablakon.
 
 hol van a haz?
+=======
+>>>>>>> 2d671a0 (Added new question)
