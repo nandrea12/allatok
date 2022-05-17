@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Mi van a haz tetejen?
 Cserep
 
@@ -8,9 +7,4 @@ Az ajton.
 Hol nézünk ki a házból?
 Az ablakon.
 
-=======
-Hany kereke van egy autonak?
-4
-
-Mit csinal az auto?
->>>>>>> hazak
+hol van a haz?
