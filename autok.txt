@@ -6,3 +6,4 @@ Megy
 
 .
 Mi a kocsi?
+Gepjarmu.
