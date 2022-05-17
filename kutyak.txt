@@ -8,3 +8,5 @@
 Igen/nem
 
 4. Van-e kutyad?
+Lehet
+
