@@ -3,6 +3,7 @@ Cserep
 
 Min keresztul megyunk be a hazba?
 <<<<<<< HEAD
+<<<<<<< HEAD
 Az ajton.
 
 Hol nézünk ki a házból?
@@ -11,3 +12,8 @@ Az ablakon.
 hol van a haz?
 =======
 >>>>>>> 2d671a0 (Added new question)
+=======
+Az ajton.
+
+Hol nézünk ki a házból?
+>>>>>>> 3ccbcc3 (Added new question)
